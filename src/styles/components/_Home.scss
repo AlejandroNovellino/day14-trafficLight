@@ -1,0 +1,32 @@
+.post{
+    width: 2rem;
+    height: 5rem;
+    margin: auto;
+    background-color: black;
+}
+
+.trafficLightBody {
+    width: 7rem;
+    background-color: black;
+}
+
+.light {
+    width: 5rem;
+    height: 5rem;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.selected {
+    box-shadow: 0px 0px 30px 20px rgb(252, 255, 49);
+}
